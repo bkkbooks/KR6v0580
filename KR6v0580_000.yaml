@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6v0580/y/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 勝鬘經講記
+  edition:
+    short: 'y'
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/Y/Y03/Y03n0003.xml
+    old_id: Y03n0003
+hash: sha256:80fe8f2424392b647202a1e645b875bfbdb1c7bd033821cccbdb9b17df3f4ec2
