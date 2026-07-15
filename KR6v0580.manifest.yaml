@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6v0580/v1
 canonical_location: https://kanripo.org/bkk/KR6v0580/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 勝鬘經講記
   source:
@@ -19,10 +19,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6v0580_000.yaml, hash: 'sha256:80fe8f2424392b647202a1e645b875bfbdb1c7bd033821cccbdb9b17df3f4ec2'}
-  - {seq: 1, filename: KR6v0580_001.yaml, hash: 'sha256:576a53a96850e52925bab34fc238cec70cec02679b9c5fb4a58089b91fca6da0'}
+  - {seq: 1, filename: KR6v0580_001.yaml, hash: 'sha256:2125f1283ab7eaa17930cc5097630b170cdd5afc5469edbdffa466253dabb4a6'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR6v0580_000.markers.yaml, hash: 'sha256:e340bf89b7f2f98b3819ca489cb7b61857fc5ca0fa06509405bf326c2d76c14f'}
-  - {seq: 1, role: markers, filename: assets/KR6v0580_001.markers.yaml, hash: 'sha256:e92b957896aafdadc3cc84716d85fcf4e06efdf961163656823804eb3049bc2a'}
+  - {seq: 1, role: markers, filename: assets/KR6v0580_001.markers.yaml, hash: 'sha256:b6c4ac5446e9c41856fc10b1c6b0dd0fd2f76c431c6892e5e4e372f675ae41f3'}
 table_of_contents:
 - ref:
     seq: 1
@@ -2564,4 +2564,7 @@ table_of_contents:
   label: 乙二　大眾奉行
   type: mulu
   level: 1
-hash: sha256:c5a8059156d8050207d7b28675ec6db3fd68331e13a5ad8fba42050dd5131528
+hash: sha256:ee6514e659d965d40e8bbc00223487047b20fcb4ff743a7c5cf8689a83adb5c8
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
