@@ -23,7 +23,7 @@ assets:
   - {seq: 1, filename: KR6v0580_001-Y.yaml, hash: 'sha256:576a53a96850e52925bab34fc238cec70cec02679b9c5fb4a58089b91fca6da0'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR6v0580_000-Y.markers.yaml, hash: 'sha256:d2797e3448156d22f8aeac16d5e04a64c8e14ec3dd3236fab37741f33631f2a5'}
-  - {seq: 1, role: markers, filename: assets/KR6v0580_001-Y.markers.yaml, hash: 'sha256:1999a48f98b7b1f3f0244f7297e5fef4928822d20946769abf2e67c8c2c42807'}
+  - {seq: 1, role: markers, filename: assets/KR6v0580_001-Y.markers.yaml, hash: 'sha256:066496b80b69faff7664a8b823272f3e48aa1a32837352d5032f16a0a4240863'}
 table_of_contents:
 - ref:
     seq: 1
@@ -2565,4 +2565,4 @@ table_of_contents:
   label: 乙二　大眾奉行
   type: mulu
   level: 1
-hash: sha256:b94e5a3545f7423fb6b6efd36185216d9ac3af7e110d584574960523eec6a6c3
+hash: sha256:bb5b3ced5c739ff8e7567e97ed3b261a8989dd82a3358147a77c9f845577c3ab
